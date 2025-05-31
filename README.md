@@ -2,7 +2,7 @@
 
 An original online course to teach beginners how to code from zero — built with Notion, HTML/CSS, and GitHub Pages.
 
-📘 **Live Site**: [Insert your site link here]  
+📘 **Live Site**: coming 
 🧠 **Created by**: Medhansh Negi  
 📂 **Units Covered**:  
 - Unit 1: Foundations  
